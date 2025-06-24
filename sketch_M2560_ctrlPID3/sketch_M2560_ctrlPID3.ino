@@ -1,4 +1,4 @@
-# Copyright 2025 Juergen Humt
+/* Copyright 2025 Juergen Humt
 # 
 # This file is part of AeroPendulum.
 # 
@@ -17,7 +17,7 @@
 #     with AeroPendulum.  If not, see <http://www.gnu.org/licenses/>.
 #
 #     version v0.1.0
-#
+*/
 
 
 #include <Servo.h>
